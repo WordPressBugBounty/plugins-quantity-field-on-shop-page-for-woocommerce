@@ -2,16 +2,16 @@
 Contributors: Wooassist
 Tags: woocommerce, quantity, field, shop
 Requires at least: 4.6.1
-Tested up to: 6.2.2
-Stable tag: 6.2.2
+Tested up to: 6.6.2
+Stable tag: 6.6.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin displays the quantity field on the shop page of WooCommerce stores so customers can change the quantity of the product before adding to cart.
+This plugin displays the quantity field on the shop page of WooCommerce stores so customers can change the quantity before adding to cart.
 
 == Description ==
 
-This plugin displays the quantity field on the shop page of WooCommerce stores so customers can change the quantity of the product before adding to cart.
+This plugin displays the quantity field on the shop page of WooCommerce stores so customers can change the quantity before adding to cart.
 
 == Installation ==
 
